@@ -1,0 +1,6 @@
+c:\users\gian luigi casarino\documents\visual studio 2017\Projects\ApplicationTest\ApplicationTest\bin\Debug\ApplicationTest.exe.config
+c:\users\gian luigi casarino\documents\visual studio 2017\Projects\ApplicationTest\ApplicationTest\bin\Debug\ApplicationTest.exe
+c:\users\gian luigi casarino\documents\visual studio 2017\Projects\ApplicationTest\ApplicationTest\bin\Debug\ApplicationTest.pdb
+c:\users\gian luigi casarino\documents\visual studio 2017\Projects\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.csprojResolveAssemblyReference.cache
+c:\users\gian luigi casarino\documents\visual studio 2017\Projects\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.exe
+c:\users\gian luigi casarino\documents\visual studio 2017\Projects\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.pdb
